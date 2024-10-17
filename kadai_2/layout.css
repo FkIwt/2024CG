@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    color: #2b417d;
+    background: #cef7dd url(20101_color.png)
+no-repeat
+}
+
+h1{
+    margin: 100px 0 0 500px;
+    font: bold italic 60px
+    "Times New Roman",Times,serif
+    
+    
+}
+h2{
+    margin: 120px 0 0 500px;
+    font: bold italic 40px
+    "Times New Roman",Times,serif
+}
